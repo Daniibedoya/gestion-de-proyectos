@@ -1,0 +1,21 @@
+.tooltip-inner {
+	background-color: #7D02F9   !important;
+	/*!important is not necessary if you place custom.css at the end of your css calls. For the purpose of this demo, it seems to be required in SO snippet*/
+	color: #fff;
+	}
+
+	.tooltip.top .tooltip-arrow {
+	border-top-color: #7D02F9  ;
+	}
+
+	.tooltip.right .tooltip-arrow {
+	border-right-color: #7D02F9  ;
+	}
+
+	.tooltip.bottom .tooltip-arrow {
+	border-bottom-color: #7D02F9  ;
+	}
+
+	.tooltip.left .tooltip-arrow {
+	border-left-color: #7D02F9  ;
+	}

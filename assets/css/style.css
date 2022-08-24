@@ -1,0 +1,28 @@
+/*================================================================================
+	Item Name: Robust - Responsive Admin Theme
+	Version: 1.0
+	Author: PIXINVENT
+	Author URL: http://www.themeforest.net/user/pixinvent
+================================================================================
+
+NOTE:
+------
+PLACE HERE YOUR OWN SCSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+
+.container-login{
+	background-color: rgba(88,88,88, 0.5) !important;
+}
+
+.titulo_sesion{
+	color: white;
+	background-color: rgba(88,88,88, 0.1) !important;
+}
+
+.color_recuperar{
+	color: white;
+}
+
+.mover{
+	margin: 5px;
+}
